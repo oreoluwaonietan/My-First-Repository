@@ -31,9 +31,8 @@ html, body {
     height: 220px;
     background-color: rgb(116, 79, 109);
 }
-/**ID SELECTOR */
-#myimage,#mynewimage{
- border: 9px solid #ddd;
+.myimage{
+    border: 9px solid #ddd;
   border-radius: 8px;
   padding: 5px;
   width: 300px;
